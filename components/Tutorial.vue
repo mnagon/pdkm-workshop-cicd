@@ -8,7 +8,7 @@
       </a>
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <h2 class="text-2xl leading-7 font-semibold">
-          PDKM WORKSHOP CI/CD
+          PDKM WORKSHOP CI/CD v.1
         </h2>
     </div>
   </div>
